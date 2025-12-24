@@ -1,4 +1,4 @@
-# 🎬 Movie App
+# 🎬Movieverse App
 
 A modern **movie discovery mobile application** built using **Expo (React Native)** that allows users to explore trending movies, view detailed information, and search for their favorite titles using real-time API data.
 
@@ -17,16 +17,15 @@ A modern **movie discovery mobile application** built using **Expo (React Native
 
 ## 🎥 App Demo
 
-### 🔹 Home Screen & Movie Listing
-![Home Screen](public/home.gif)
+<p align="center">
+  <img src="public/home.gif" alt="Home Screen" width="30%" />
+  <img src="public/result.gif" alt="Movie Details" width="30%" />
+  <img src="public/search.gif" alt="Search Movies" width="30%" />
+</p>
 
-### 🔹 Movie Details Screen
-![Movie Details](public/result.gif)
-
-### 🔹 Search Functionality
-![Search Movies](public/search.gif)
-
-> *GIFs play automatically on GitHub and showcase real app behavior.*
+<p align="center">
+  <b>Home Screen</b> • <b>Movie Details</b> • <b>Search Functionality</b>
+</p>
 
 ---
 
@@ -34,7 +33,7 @@ A modern **movie discovery mobile application** built using **Expo (React Native
 
 - **Framework:** Expo (React Native)
 - **Language:** JavaScript / TypeScript
-- **API:** Movie Data API (as used in the tutorial)
+- **API:** Movie Data API
 - **Navigation:** Expo Router / React Navigation
 - **Styling:** StyleSheet / Modern UI components
 - **State Management:** React Hooks
@@ -54,8 +53,8 @@ A modern **movie discovery mobile application** built using **Expo (React Native
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/KartikeySriv/working-movie-app.git
-cd working-movie-app
+```bash
+git clone https://github.com/KartikeySriv/movieverse.git
 
 ### 2️⃣ Install Dependencies
 npm install
