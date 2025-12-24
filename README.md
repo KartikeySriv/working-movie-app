@@ -59,12 +59,17 @@ A modern **movie discovery mobile application** built using **Expo (React Native
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/KartikeySriv/movieverse.git
+```
 
 ### 2️⃣ Install Dependencies
+```bash
 npm install
+```
 
 ### 3️⃣ Start the App
+```bash
 npx expo start
+```
 
 ---
 
