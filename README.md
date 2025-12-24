@@ -1,29 +1,90 @@
-# Welcome to your Expo app 👋
+# 🎬 Movie App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern **movie discovery mobile application** built using **Expo (React Native)** that allows users to explore trending movies, view detailed information, and search for their favorite titles using real-time API data.
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features
 
-   ```bash
-   npm install
-   ```
+- 🎞️ Browse trending and popular movies
+- 🔍 Search movies in real time
+- 📄 View detailed movie information (overview, rating, release date)
+- ⚡ Optimized API calls with smooth performance
+- 📱 Clean, responsive, mobile-first UI
+- 🔁 Graceful loading and error handling
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🎥 App Demo
 
-In the output, you'll find options to open the app in a
+### 🔹 Home Screen & Movie Listing
+![Home Screen](public/home.gif)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 🔹 Movie Details Screen
+![Movie Details](public/result.gif)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 🔹 Search Functionality
+![Search Movies](public/search.gif)
 
-# Appwrite console
-https://cloud.appwrite.io/console/project-fra-6875ffc800092d78bc75/databases/database-6879facf00303cff1390/collection-6879faf600207b78bedf
+> *GIFs play automatically on GitHub and showcase real app behavior.*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** Expo (React Native)
+- **Language:** JavaScript / TypeScript
+- **API:** Movie Data API (as used in the tutorial)
+- **Navigation:** Expo Router / React Navigation
+- **Styling:** StyleSheet / Modern UI components
+- **State Management:** React Hooks
+
+---
+
+## 🧠 Key Learnings
+
+- Building scalable mobile apps using Expo
+- Integrating third-party APIs with async/await
+- Designing reusable UI components
+- Managing loading and error states
+- Improving performance with optimized requests
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+git clone https://github.com/KartikeySriv/working-movie-app.git
+cd working-movie-app
+
+### 2️⃣ Install Dependencies
+npm install
+
+### 3️⃣ Start the App
+npx expo start
+
+---
+
+## ▶️ Run the App Using
+
+- 📱 **Expo Go** (Scan QR code)
+- 🤖 **Android Emulator**
+- 🍎 **iOS Simulator**
+
+---
+
+## 📌 Future Improvements
+
+- ⭐ Watchlist / Favorites  
+- 🔔 Notifications for new releases  
+- 👤 User authentication  
+- 🌙 Dark mode support  
+
+---
+
+## 👨‍💻 Author
+
+**Kartikey Srivastava**  
+Full-Stack Developer | Mobile App Enthusiast  
+
+🔗 **GitHub:** https://github.com/KartikeySriv
